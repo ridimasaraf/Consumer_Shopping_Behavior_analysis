@@ -90,6 +90,17 @@ Consumer_Shopping_Behavior_Analysis/
 
 Python and Pandas were used to clean, transform, and prepare the customer shopping data for further analysis.
 
+- Loaded the customer shopping dataset using Pandas.
+- Explored the dataset using `df.info()`, `df.describe()`, and missing-value checks.
+- Identified 37 missing values in the `Review Rating` column.
+- Filled missing review ratings using the median rating of each product category.
+- Standardized column names by converting them to lowercase and replacing spaces with underscores.
+- Created an `age_group` feature by grouping customers based on their age.
+- Converted purchase frequency categories such as Weekly, Monthly, Quarterly, and Annually into numerical day values using a mapping.
+- Compared `discount_applied` and `promo_code_used` to check whether they contained redundant information.
+- Removed the redundant `promo_code_used` column.
+- Connected the cleaned dataset to the database and loaded the DataFrame into the `customer` table for SQL analysis.
+
 
 ## 📊 Power BI Dashboard
 
