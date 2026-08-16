@@ -65,13 +65,13 @@ Business Insights & Recommendations
 Consumer_Shopping_Behavior_Analysis/
 │
 ├── data/
-│   └── customer_shopping_behavior.csv
+│   └── Consumer_shopping_behavior.csv
 │
 ├── notebook/
-│   └── Customer_Shopping_Behavior_Analysis.ipynb
+│   └── Consumer_Shopping_Behavior_Analysis.ipynb
 │
 ├── sql/
-│   └── customer_behavior_sql_queries.sql
+│   └── Consumer_behavior_sql_queries.sql
 │
 ├── powerbi/
 │   └── Consumer_Shopping_Behavior_Dashboard.pbix
