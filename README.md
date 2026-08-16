@@ -122,7 +122,19 @@ The analysis included:
 
 ## 📊 Power BI Dashboard
 
-An interactive Power BI dashboard was created to visualize customer shopping patterns, sales performance, subscription status, and revenue across different customer segments.
+An interactive Power BI dashboard was created to analyze customer shopping behavior and visualize key sales and customer trends.
+
+The dashboard includes:
+
+- **Number of Customers:** 3.9K
+- **Average Purchase Amount:** $59.76
+- **Average Review Rating:** 3.75
+- **Subscription Status:** Comparison of subscribed and non-subscribed customers
+- **Revenue by Category:** Revenue comparison across Clothing, Accessories, Footwear, and Outerwear
+- **Sales by Category:** Sales performance across product categories
+- **Revenue by Age Group:** Revenue comparison across Young Adult, Middle-aged, Adult, and Senior customers
+- **Sales by Age Group:** Sales comparison across different age groups
+- **Interactive Filters:** Subscription Status, Gender, Category, and Shipping Type
 
 ## 💡 Key Insights
 
